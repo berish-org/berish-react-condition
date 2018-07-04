@@ -1,0 +1,15 @@
+{
+  "name": "berish-react-condition",
+  "version": "1.0.0",
+  "description": "A condition component for react, which, according to a certain condition, displays either a component for the true result, or a component for a false result",
+  "main": "index.js",
+  "author": {
+    "name": "Berishev Ravil"
+  },
+  "dependencies": {
+    "react": "^16.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.6"
+  }
+}
